@@ -9,9 +9,28 @@
         content="Domina a estratégia do Aviador com este assistente inteligente. Potencialize seus resultados com análise em tempo real.">
     <meta name="author" content="Predidly Bot">
 
-    <meta property="og:title" content="Oficial do Aviador Bot - Mude de Vida Rápido">
-    <meta property="og:description" content="Domina o Aviador para faturar 100mil todos os meses com este bot">
+    <meta property="og:title" content="Oficial do Aviador Bot - Estratégia Inteligente">
+    <meta property="og:description" content="Domina a estratégia do Aviador com este assistente inteligente.">
     <meta property="og:type" content="website">
+
+    <!-- Meta Pixel Code -->
+    <script>
+        !function(f,b,e,v,n,t,s)
+        {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+        n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+        if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+        n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t,s)}(window, document,'script',
+        'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '2005862116860795');
+        fbq('track', 'PageView');
+        fbq('track', 'ViewContent'); // Evento extra para garantir
+    </script>
+    <noscript><img height="1" width="1" style="display:none"
+        src="https://www.facebook.com/tr?id=2005862116860795&ev=PageView&noscript=1"
+    /></noscript>
+    <!-- End Meta Pixel Code -->
 
     <!-- Favicon -->
     <link rel="icon" type="image/png" href="aviator-logo.png">
@@ -997,9 +1016,8 @@
         </div>
         
         <div class="footer-links">
-            <a href="#">Termos de Uso</a>
-            <a href="#">Política de Privacidade</a>
-            <a href="#">Aviso Legal</a>
+            <a href="termos.html">Termos de Uso</a>
+            <a href="privacidade.html">Política de Privacidade</a>
         </div>
 
         <p class="disclaimer">
@@ -1086,6 +1104,11 @@
         ctaBtn.addEventListener('click', function (e) {
             e.preventDefault();
 
+            // Track Event
+            if (typeof fbq === 'function') {
+                fbq('track', 'InitiateCheckout');
+            }
+
             this.innerHTML = '⏳ Redirecionando...';
             this.style.pointerEvents = 'none';
             this.style.animation = 'none';
@@ -1093,7 +1116,7 @@
             setTimeout(() => {
                 // Replace with your checkout link
                 window.location.href = 'https://predidly-bot.vercel.app/';
-            }, 1500);
+            }, 1000); // Reduzi um pouco o tempo para melhorar a UX
         });
 
         // ===== LIVE VIEWERS COUNTER =====
