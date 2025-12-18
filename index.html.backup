@@ -1,16 +1,16 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="pt-BR">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Oficial do Aviador Bot - Mude de Vida RÃ¡pido</title>
+    <title>Oficial do Aviador Bot - Mude de Vida Rápido</title>
     <meta name="description"
-        content="Domina a estratÃ©gia do Aviador com este assistente inteligente. Potencialize seus resultados com anÃ¡lise em tempo real.">
+        content="Domina a estratégia do Aviador com este assistente inteligente. Potencialize seus resultados com análise em tempo real.">
     <meta name="author" content="Predidly Bot">
 
-    <meta property="og:title" content="Oficial do Aviador Bot - EstratÃ©gia Inteligente">
-    <meta property="og:description" content="Domina a estratÃ©gia do Aviador com este assistente inteligente.">
+    <meta property="og:title" content="Oficial do Aviador Bot - Estratégia Inteligente">
+    <meta property="og:description" content="Domina a estratégia do Aviador com este assistente inteligente.">
     <meta property="og:type" content="website">
 
     <!-- Meta Pixel Code -->
@@ -807,22 +807,22 @@
     <!-- Hero Section -->
     <section class="hero">
         <div class="container">
-            <span class="badge-oficial"><span class="plane-icon">âœˆ</span> Bot Aviator Oficial</span>
+            <span class="badge-oficial"><span class="plane-icon">✈</span> Bot Aviator Oficial</span>
 
             <h1>
-                <span class="red">Avance para o PrÃ³ximo NÃ­vel:</span><br>
-                Domine a estratÃ©gia do Aviador com <span class="gold">inteligÃªncia</span>
+                <span class="red">Avance para o Próximo Nível:</span><br>
+                Domine a estratégia do Aviador com <span class="gold">inteligência</span>
             </h1>
-            <h2>ferramenta poderosa para otimizar suas operaÃ§Ãµes.</h2>
+            <h2>ferramenta poderosa para otimizar suas operações.</h2>
 
-            <p>Potencialize seus resultados com <span class="green">assistÃªncia em tempo real</span> e opere com mais <span class="gold">confianÃ§a</span>.</p>
+            <p>Potencialize seus resultados com <span class="green">assistência em tempo real</span> e opere com mais <span class="gold">confiança</span>.</p>
         </div>
     </section>
 
     <!-- Vagas Banner -->
     <div class="container">
         <div class="vagas-banner">
-            <p><span class="icon">âš ï¸</span> Vagas disponÃ­veis: <span class="number" id="vagas-count">13</span> restantes
+            <p><span class="icon">⚠️</span> Vagas disponíveis: <span class="number" id="vagas-count">13</span> restantes
             </p>
         </div>
     </div>
@@ -831,9 +831,9 @@
     <div class="container" style="text-align: center;">
         <div class="live-counter">
             <span class="live-dot"></span>
-            <span>ðŸ’¬</span>
+            <span>💬</span>
             <span class="number" id="viewers-count">146</span>
-            <span>pessoas estÃ£o a assistir agoraâ€¦</span>
+            <span>pessoas estão a assistir agora…</span>
         </div>
         <p class="live-text">Veja o sistema operando.</p>
     </div>
@@ -847,7 +847,7 @@
                     <source
                         src="https://res.cloudinary.com/dm3glrwax/video/upload/v1765662694/clone-sites/aviator-flyer-vsl-final.mp4"
                         type="video/mp4">
-                    Seu navegador nÃ£o suporta vÃ­deo HTML5.
+                    Seu navegador não suporta vídeo HTML5.
                 </video>
 
                 <div class="play-overlay" id="play-overlay">
@@ -865,15 +865,15 @@
     <!-- CTA Button -->
     <section class="cta-section">
         <a href="#" class="cta-btn" id="cta-btn">
-            ðŸš€ ComeÃ§ar Agora
+            🚀 Começar Agora
         </a>
     </section>
 
     <!-- Testimonials Section -->
     <section class="testimonials-section">
         <div class="testimonials-title">
-            <h2>MoÃ§ambicanos que jÃ¡ usaram</h2>
-            <p>o Bot Aviador <span class="emoji">ðŸ‘‡</span></p>
+            <h2>Moçambicanos que já usaram</h2>
+            <p>o Bot Aviador <span class="emoji">👇</span></p>
         </div>
 
         <div class="testimonials-grid">
@@ -890,16 +890,16 @@
                     carro! "</p>
             </div>
 
-            <!-- EsperanÃ§a T. -->
+            <!-- Esperança T. -->
             <div class="testimonial-card">
                 <div class="testimonial-header">
                     <div class="testimonial-avatar avatar-et">ET</div>
                     <div class="testimonial-info">
-                        <h3>EsperanÃ§a T.</h3>
+                        <h3>Esperança T.</h3>
                         <span>( Beira )</span>
                     </div>
                 </div>
-                <p class="testimonial-text">" NÃ£o acreditei atÃ© ver o lucro subir em tempo real. Hoje jÃ¡ consegui pagar
+                <p class="testimonial-text">" Não acreditei até ver o lucro subir em tempo real. Hoje já consegui pagar
                     a entrada da minha casa. "</p>
             </div>
 
@@ -912,21 +912,21 @@
                         <span>( Tete )</span>
                     </div>
                 </div>
-                <p class="testimonial-text">" O bot Ã© simplesmente surreal. Fiz 420.000 meticais em menos de 1 mÃªs.
-                    Obrigado IlÃ­dio! "</p>
+                <p class="testimonial-text">" O bot é simplesmente surreal. Fiz 420.000 meticais em menos de 1 mês.
+                    Obrigado Ilídio! "</p>
             </div>
 
-            <!-- GraÃ§a L. -->
+            <!-- Graça L. -->
             <div class="testimonial-card">
                 <div class="testimonial-header">
                     <div class="testimonial-avatar avatar-gl">GL</div>
                     <div class="testimonial-info">
-                        <h3>GraÃ§a L.</h3>
+                        <h3>Graça L.</h3>
                         <span>( Nampula )</span>
                     </div>
                 </div>
-                <p class="testimonial-text">" Comecei com 200 MZN e jÃ¡ passei dos 300.000. Nunca pensei que seria
-                    possÃ­vel. "</p>
+                <p class="testimonial-text">" Comecei com 200 MZN e já passei dos 300.000. Nunca pensei que seria
+                    possível. "</p>
             </div>
 
             <!-- Zacarias C. -->
@@ -938,7 +938,7 @@
                         <span>( Quelimane )</span>
                     </div>
                 </div>
-                <p class="testimonial-text">" Lucros constantes. JÃ¡ tirei mais de 250.000 MZN e comprei a minha mota
+                <p class="testimonial-text">" Lucros constantes. Já tirei mais de 250.000 MZN e comprei a minha mota
                     nova. "</p>
             </div>
 
@@ -951,7 +951,7 @@
                         <span>( Matola )</span>
                     </div>
                 </div>
-                <p class="testimonial-text">" O bot nÃ£o erra. Fiz 320 mil e vou a juntar pra comprar terreno. "</p>
+                <p class="testimonial-text">" O bot não erra. Fiz 320 mil e vou a juntar pra comprar terreno. "</p>
             </div>
 
             <!-- Felismina J. -->
@@ -963,8 +963,8 @@
                         <span>( Chimoio )</span>
                     </div>
                 </div>
-                <p class="testimonial-text">" Comecei pra testar e em 2 semanas jÃ¡ bati 270.000 MZN. JÃ¡ recomendo pra
-                    toda famÃ­lia. "</p>
+                <p class="testimonial-text">" Comecei pra testar e em 2 semanas já bati 270.000 MZN. Já recomendo pra
+                    toda família. "</p>
             </div>
 
             <!-- Benedito D. -->
@@ -989,7 +989,7 @@
                         <span>( Beira )</span>
                     </div>
                 </div>
-                <p class="testimonial-text">" O bot faz o que promete. De 100 pra 29000, e depois fui escalando atÃ©
+                <p class="testimonial-text">" O bot faz o que promete. De 100 pra 29000, e depois fui escalando até
                     280.000 MZN. "</p>
             </div>
 
@@ -1002,7 +1002,7 @@
                         <span>( Nacala )</span>
                     </div>
                 </div>
-                <p class="testimonial-text">" Consegui comprar o meu carro usado com os lucros do Aviator Bot. GratidÃ£o
+                <p class="testimonial-text">" Consegui comprar o meu carro usado com os lucros do Aviator Bot. Gratidão
                     total. "</p>
             </div>
         </div>
@@ -1010,24 +1010,24 @@
 
     <!-- Footer -->
     <footer class="footer">
-        <p>Â© 2025 <span class="brand">Predidly Bot</span> - Todos os direitos reservados.</p>
+        <p>© 2025 <span class="brand">Predidly Bot</span> - Todos os direitos reservados.</p>
         <div class="support-email">
-            ðŸ“§ Suporte: fbilonario01@gmail.com
+            📧 Suporte: fbilonario01@gmail.com
         </div>
         
         <div class="footer-links">
             <a href="termos.html">Termos de Uso</a>
-            <a href="privacidade.html">PolÃ­tica de Privacidade</a>
+            <a href="privacidade.html">Política de Privacidade</a>
         </div>
 
         <p class="disclaimer">
-            AVISO LEGAL: Este site nÃ£o Ã© afiliado ao Facebook, Google ou a qualquer plataforma de publicidade. Os resultados apresentados sÃ£o baseados em estratÃ©gias e padrÃµes, mas podem variar de pessoa para pessoa. NÃ£o garantimos lucros fÃ¡ceis ou dinheiro rÃ¡pido. Toda operaÃ§Ã£o financeira envolve riscos. Jogue com responsabilidade (+18).
+            AVISO LEGAL: Este site não é afiliado ao Facebook, Google ou a qualquer plataforma de publicidade. Os resultados apresentados são baseados em estratégias e padrões, mas podem variar de pessoa para pessoa. Não garantimos lucros fáceis ou dinheiro rápido. Toda operação financeira envolve riscos. Jogue com responsabilidade (+18).
         </p>
     </footer>
 
     <!-- Notification Popup -->
     <div class="notification-popup" id="notification-popup">
-        <p><span class="name">Samuel</span> acaba de fazer a ativaÃ§Ã£o agora mesmo!</p>
+        <p><span class="name">Samuel</span> acaba de fazer a ativação agora mesmo!</p>
     </div>
 
     <script>
@@ -1109,7 +1109,7 @@
                 fbq('track', 'InitiateCheckout');
             }
 
-            this.innerHTML = 'â³ Redirecionando...';
+            this.innerHTML = '⏳ Redirecionando...';
             this.style.pointerEvents = 'none';
             this.style.animation = 'none';
 
@@ -1141,7 +1141,7 @@
         }, 30000);
 
         // ===== NOTIFICATION POPUP =====
-        const names = ['Joaquim', 'EsperanÃ§a', 'Armando', 'GraÃ§a', 'Zacarias', 'Celestino', 'Felismina', 'Benedito', 'Rosalina', 'Elias', 'FÃ¡tima', 'Albino', 'AmÃ©lia', 'Justino'];
+        const names = ['Joaquim', 'Esperança', 'Armando', 'Graça', 'Zacarias', 'Celestino', 'Felismina', 'Benedito', 'Rosalina', 'Elias', 'Fátima', 'Albino', 'Amélia', 'Justino'];
         const popup = document.getElementById('notification-popup');
 
         function showNotification() {
@@ -1161,14 +1161,9 @@
         setInterval(showNotification, 20000);
 
         // ===== CONSOLE PROTECTION =====
-        console.log('%câš ï¸ PARE!', 'color: red; font-size: 50px; font-weight: bold;');
-        console.log('%cEste Ã© um recurso do navegador destinado a desenvolvedores. Se alguÃ©m disse para vocÃª copiar e colar algo aqui, isso Ã© uma fraude.', 'color: #333; font-size: 16px;');
+        console.log('%c⚠️ PARE!', 'color: red; font-size: 50px; font-weight: bold;');
+        console.log('%cEste é um recurso do navegador destinado a desenvolvedores. Se alguém disse para você copiar e colar algo aqui, isso é uma fraude.', 'color: #333; font-size: 16px;');
     </script>
-
-<!-- Vercel Analytics -->
-<script>
-(function(){if(window.location.hostname.includes('vercel.app')||document.querySelector('script[src*="/_vercel/insights"]')){var s=document.createElement('script');s.defer=true;s.src='/_vercel/insights/script.js';document.head.appendChild(s);var sp=document.createElement('script');sp.defer=true;sp.src='/_vercel/speed-insights/script.js';document.head.appendChild(sp);}})();
-</script>
 </body>
 
 </html>
